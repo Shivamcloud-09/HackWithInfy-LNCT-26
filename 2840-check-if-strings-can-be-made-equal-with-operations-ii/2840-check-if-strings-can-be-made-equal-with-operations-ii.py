@@ -1,0 +1,7 @@
+class Solution:
+    def checkStrings(self, s1: str, s2: str) -> bool:
+        a = sorted(s1[0::2])
+        b = sorted(s1[1::2])
+        c = sorted(s2[0::2])
+        d = sorted(s2[1::2])
+        return a==c and b==d
