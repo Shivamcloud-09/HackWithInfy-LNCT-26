@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0290-word-pattern) |
 | [0761-special-binary-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0761-special-binary-string) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0761-special-binary-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
