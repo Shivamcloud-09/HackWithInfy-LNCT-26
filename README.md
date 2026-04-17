@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0349-intersection-of-two-arrays) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0761-special-binary-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0761-special-binary-string) |
 ## Stack
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -105,8 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
