@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0290-word-pattern) |
 | [0657-robot-return-to-origin](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0657-robot-return-to-origin) |
+| [0696-count-binary-substrings](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0761-special-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0696-count-binary-substrings](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Binary Search
 |  |
