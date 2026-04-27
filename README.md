@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1207-unique-number-of-occurrences) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1207-unique-number-of-occurrences) |
 | [2615-sum-of-distances](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
