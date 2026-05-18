@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -50,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0059-spiral-matrix-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2075-decode-the-slanted-ciphertext) |
