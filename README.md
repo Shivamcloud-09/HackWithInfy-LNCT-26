@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2615-sum-of-distances) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1207-unique-number-of-occurrences) |
+| [2540-minimum-common-value](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0696-count-binary-substrings](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2540-minimum-common-value) |
 ## Tree
 |  |
 | ------- |
