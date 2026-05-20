@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1207-unique-number-of-occurrences) |
 | [2540-minimum-common-value](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Union-Find
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0067-add-binary) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
