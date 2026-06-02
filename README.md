@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0761-special-binary-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0761-special-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Tree
 |  |
 | ------- |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Trie
 |  |
 | ------- |
