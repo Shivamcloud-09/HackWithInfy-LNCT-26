@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0067-add-binary) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
