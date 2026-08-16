@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2540-minimum-common-value) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0761-special-binary-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0761-special-binary-string) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2029-stone-game-ix) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Game Theory
 |  |
 | ------- |
