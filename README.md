@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0503-next-greater-element-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1207-unique-number-of-occurrences) |
 | [1306-jump-game-iii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0094-binary-tree-inorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0503-next-greater-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2029-stone-game-ix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
