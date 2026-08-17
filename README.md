@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0503-next-greater-element-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1207-unique-number-of-occurrences) |
 | [1306-jump-game-iii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1306-jump-game-iii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0455-assign-cookies) |
 | [0761-special-binary-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0761-special-binary-string) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2540-minimum-common-value) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0455-assign-cookies) |
 | [2029-stone-game-ix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0503-next-greater-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
