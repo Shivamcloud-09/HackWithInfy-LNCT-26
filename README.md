@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1207-unique-number-of-occurrences) |
 | [1306-jump-game-iii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2029-stone-game-ix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2029-stone-game-ix) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1927-sum-game](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2078-two-furthest-houses-with-different-colors) |
