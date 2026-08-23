@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0132-palindrome-partitioning-ii) |
 | [0171-excel-sheet-column-number](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0290-word-pattern) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0022-generate-parentheses) |
+| [0091-decode-ways](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0132-palindrome-partitioning-ii) |
 | [0509-fibonacci-number](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
