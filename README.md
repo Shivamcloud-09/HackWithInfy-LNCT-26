@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Binary Search Tree
 |  |
 | ------- |
