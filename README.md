@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0171-excel-sheet-column-number) |
 | [0509-fibonacci-number](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -291,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0141-linked-list-cycle) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
