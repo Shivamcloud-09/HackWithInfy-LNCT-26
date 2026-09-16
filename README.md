@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0128-longest-consecutive-sequence) |
@@ -136,12 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0503-next-greater-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0132-palindrome-partitioning-ii) |
 | [0509-fibonacci-number](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0509-fibonacci-number) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0349-intersection-of-two-arrays) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0503-next-greater-element-ii) |
 ## Quicksort
 |  |
