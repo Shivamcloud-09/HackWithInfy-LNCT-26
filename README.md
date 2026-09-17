@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0091-decode-ways) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0132-palindrome-partitioning-ii) |
 | [0509-fibonacci-number](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
