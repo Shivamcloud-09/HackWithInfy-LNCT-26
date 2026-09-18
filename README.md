@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0171-excel-sheet-column-number) |
 | [0509-fibonacci-number](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0509-fibonacci-number) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0867-transpose-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
