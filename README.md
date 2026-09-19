@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1207-unique-number-of-occurrences) |
 | [1306-jump-game-iii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1306-jump-game-iii) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0867-transpose-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
 |  |
