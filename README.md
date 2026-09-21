@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0503-next-greater-element-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1207-unique-number-of-occurrences) |
 | [1306-jump-game-iii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1306-jump-game-iii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0059-spiral-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0867-transpose-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0867-transpose-matrix) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0137-single-number-ii) |
+| [0832-flipping-an-image](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0832-flipping-an-image) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0696-count-binary-substrings) |
+| [0832-flipping-an-image](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2540-minimum-common-value) |
