@@ -1,0 +1,11 @@
+class Solution:
+    def maxProduct(self, words: list[str]) -> int:
+        ans = 0
+
+        for i in range(len(words)):
+            for j in range(i + 1, len(words)):
+                
+                if set(words[i]).isdisjoint(set(words[j])):
+                    ans = max(ans, len(words[i]) * len(words[j]))
+
+        return ans
