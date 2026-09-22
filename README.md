@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2418-sort-the-people](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2540-minimum-common-value) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1207-unique-number-of-occurrences) |
+| [2418-sort-the-people](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0761-special-binary-string) |
 | [1927-sum-game](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1927-sum-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2418-sort-the-people](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0761-special-binary-string) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2418-sort-the-people](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2418-sort-the-people) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
