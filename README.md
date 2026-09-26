@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1207-unique-number-of-occurrences) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2418-sort-the-people](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2615-sum-of-distances) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0761-special-binary-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1927-sum-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2418-sort-the-people](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/2418-sort-the-people) |
