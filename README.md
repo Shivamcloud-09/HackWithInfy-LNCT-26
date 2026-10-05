@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0132-palindrome-partitioning-ii) |
 | [0171-excel-sheet-column-number](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0171-excel-sheet-column-number) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0344-reverse-string) |
