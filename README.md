@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0761-special-binary-string) |
+| [0856-score-of-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1927-sum-game) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0503-next-greater-element-ii) |
+| [0856-score-of-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Dynamic Programming
 |  |
@@ -348,5 +350,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivamcloud-09/HackWithInfy-LNCT-26/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
